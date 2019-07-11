@@ -1,0 +1,17 @@
+models/MSDN/model14/model14_lr_1e-4_bz_2_decay_epoch_1.pth
+models/MSDN/model14/model14_lr_1e-4_bz_2_decay_epoch_2.pth
+models/MSDN/model14/model14_lr_1e-4_bz_2_decay_epoch_0.pth
+mydata/Dets_TrainKaist_Thr70.csv
+mydata/rois_test_thr70.csv
+mydata/rois_train_thr70.csv
+mydata/rois_testCaltech_thr70_MSDN.csv
+mydata/rois_trainKaist_thr70_1.csv
+mydata/rois_testKaist_thr70_MSDN.csv
+mydata/rois_trainKaist_thr70_MSDN.csv
+mymodel/RRN/model23_lr_1e-9_bz_6_NBS_128_norm_epoch_3.ptx
+mymodel/MSDN/test1/test151_model12_lr_1e-4_bz_2_decay_epoch_3.pth.txt
+mymodel/MSDN/test1/test163_model14_lr_1e-4_bz_2_decay_epoch_1.pth.txt
+mymodel/MSDN/test1/test163_model14_lr_1e-4_bz_2_decay_epoch_2.pth.txt
+mymodel/MSDN/test1/test151_model13_lr_1e-4_bz_2_decay_epoch_3.pth.txt
+mymodel/MSDN/test1/test163_model14_lr_1e-4_bz_2_decay_epoch_0.pth.txt
+mymodel/MSDN/test1/model13_lr_1e-4_bz_2_decay_epoch_3.pth
