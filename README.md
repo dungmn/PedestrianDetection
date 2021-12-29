@@ -1,5 +1,6 @@
 # Pedestrian Detection Using Cross-modal
 This source is re-implement the method proposed at [1]
+slide: https://docs.google.com/presentation/d/1v1x1WHEYEU-ur9tLXsy23WQpsJCwTpGqUgWnGCwLnT4/edit#slide=id.g44ff61ff99_2_69
 ## System requirement
 * Python: 3.6.8
 * Pytorch: 1.1.0
